@@ -51,13 +51,5 @@ The dataset used in this project is an "ECG-Dataset.csv" file, which contains 21
 
 Data Overview:
 The dataset dimensions are (333, 21), indicating 333 samples and 21 features (including the target variable).
-Future Enhancements
-Advanced Architectures: Explore more complex deep learning models like Convolutional Neural Networks (CNNs) for raw ECG signal analysis.
 
-Hyperparameter Tuning: Implement more rigorous hyperparameter optimization techniques (e.g., GridSearchCV, RandomizedSearchCV, Keras Tuner) to further improve model performance.
 
-Feature Engineering: Investigate additional feature engineering techniques to extract more meaningful insights from the raw data.
-
-Interpretability: Implement explainable AI (XAI) techniques to understand which features contribute most to the model's predictions.
-
-Real-time Integration: Develop a deployment strategy for real-time ECG analysis, potentially integrating with medical devices.
